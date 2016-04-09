@@ -1,5 +1,5 @@
 __author__ = 'Francisc'
-
+__author__ = 'Shella'
 import matplotlib.pyplot as plt
 import serial
 
